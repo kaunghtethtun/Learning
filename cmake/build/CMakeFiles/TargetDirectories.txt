@@ -1,0 +1,4 @@
+/home/kaunghtethtun/Desktop/Git/Learning/cmake/build/CMakeFiles/test.dir
+/home/kaunghtethtun/Desktop/Git/Learning/cmake/build/CMakeFiles/main.dir
+/home/kaunghtethtun/Desktop/Git/Learning/cmake/build/CMakeFiles/edit_cache.dir
+/home/kaunghtethtun/Desktop/Git/Learning/cmake/build/CMakeFiles/rebuild_cache.dir

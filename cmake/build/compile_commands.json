@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kaunghtethtun/Desktop/Git/Learning/cmake/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/test.dir/test.cpp.o -c /home/kaunghtethtun/Desktop/Git/Learning/cmake/test.cpp",
+  "file": "/home/kaunghtethtun/Desktop/Git/Learning/cmake/test.cpp"
+},
+{
+  "directory": "/home/kaunghtethtun/Desktop/Git/Learning/cmake/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/kaunghtethtun/Desktop/Git/Learning/cmake/main.cpp",
+  "file": "/home/kaunghtethtun/Desktop/Git/Learning/cmake/main.cpp"
+}
+]
